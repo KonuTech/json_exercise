@@ -1,2 +1,2 @@
-# mapping-data
-Coursera Lesson 2: Mapping Data to Python
+# From CSV to JSON
+python ./app/to_json_app.py
