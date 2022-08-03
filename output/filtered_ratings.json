@@ -1,0 +1,112 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "name": "index",
+        "type": "integer"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "grape",
+        "type": "number"
+      },
+      {
+        "name": "region",
+        "type": "string"
+      },
+      {
+        "name": "variety",
+        "type": "string"
+      },
+      {
+        "name": "rating",
+        "type": "number"
+      },
+      {
+        "name": "notes",
+        "type": "string"
+      }
+    ],
+    "primaryKey": [
+      "index"
+    ],
+    "pandas_version": "1.4.0"
+  },
+  "data": [
+    {
+      "index": 128,
+      "name": "Le Cirque Grenache Gris 2014",
+      "grape": null,
+      "region": "France",
+      "variety": "White Wine",
+      "rating": 90.0,
+      "notes": "Medium to full-bodied and very aromatic, with intense fruit, floral notes, green herb character and a light spiciness on the nose."
+    },
+    {
+      "index": 145,
+      "name": "Le Domaine D'Henri Chablis Fourchaume Premier Cru 2014",
+      "grape": null,
+      "region": "Chablis, Burgundy, France",
+      "variety": "White Wine",
+      "rating": 91.0,
+      "notes": "Planted half in 1964 and half in 1999, this is an elegant, refined fruit-driven wine with a good structured impression on the palate.The Kimmeridgian escarpment of Fourchaume is reputed to produce some of the best Chablis wines and the South West exposure of the vines means that they bask in the warm afternoon sun."
+    },
+    {
+      "index": 146,
+      "name": "Le Domaine D'Henri Chablis Fourchaume Premier Cru 2015",
+      "grape": null,
+      "region": "Chablis, Burgundy, France",
+      "variety": "White Wine",
+      "rating": 91.0,
+      "notes": "Planted half in 1964 and half in 1999, this is an elegant, refined fruit-driven wine with a good structured impression on the palate. The Kimmeridgian escarpment of Fourchaume is reputed to produce some of the best Chablis wines -- and the South West exposure of the vines means that they bask in the warm afternoon sun. Vinified in stainless steel tanks (89%) to preserve the minerality and freshness, and in oak barrels (11%) of 228-litres to add more complex notes, this wine will continue to improve for the next 15 years or so."
+    },
+    {
+      "index": 247,
+      "name": "Le Roi des Pierres Sancerre 2014",
+      "grape": null,
+      "region": "Sancerre, Loire, France",
+      "variety": "White Wine",
+      "rating": 90.0,
+      "notes": "Intense aromas of citrus and grapefruit entice the senses, unfolding to reveal exotic fruits (passion fruit and kiwi) and a pleasant mineral character. Round and substantial, the palate offersa fresh, balanced acidity. A stunning silex Sancerre!"
+    },
+    {
+      "index": 248,
+      "name": "Le Roi des Pierres Sancerre 2015",
+      "grape": null,
+      "region": "Sancerre, Loire, France",
+      "variety": "White Wine",
+      "rating": 90.0,
+      "notes": "Intense aromas of citrus and grapefruit entice the senses, unfolding to reveal exotic fruits (passion fruit and kiwi) and a pleasant mineral character. Round and substantial, the palate offersa fresh, balanced acidity. A stunning silex Sancerre!"
+    },
+    {
+      "index": 249,
+      "name": "Le Roi des Pierres Sancerre 2016",
+      "grape": null,
+      "region": "Sancerre, Loire, France",
+      "variety": "White Wine",
+      "rating": 91.0,
+      "notes": "This Sancerre is an enchanting pale gold yellow with green hints. Concentrated aromas of exotic fruits, grapefruit, passion fruit, mango and blood orange tempt the senses before unfolding to a structured, mineral-driven palate with a graphite finish that evokes the flint terroir of St. Gemme. Notes of orange zest linger on the beautifully balanced finish that leaves a saline impression."
+    },
+    {
+      "index": 277,
+      "name": "Le Vieux Donjon Chateauneuf-du-Pape Blanc 2006",
+      "grape": null,
+      "region": "Chateauneuf-du-Pape, Rhone, France",
+      "variety": "White Wine",
+      "rating": 91.0,
+      "notes": "A tiny bit of superb white wine made.  Well-defined and shapely so that they may be enjoyed right away, Vieux Donjon Chateauneufs, nevertheless age slowly and magnificently."
+    },
+    {
+      "index": 668,
+      "name": "Les Hauts de Lagarde Bordeaux Blanc 2013",
+      "grape": null,
+      "region": "Bordeaux, France",
+      "variety": "White Wine",
+      "rating": 91.0,
+      "notes": null
+    }
+  ]
+}
