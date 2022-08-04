@@ -1,3 +1,12 @@
+# windows
 virtualenv --python C:\Users\KonuTech\AppData\Local\Programs\Python\Python39\python.exe venv
 Set-ExecutionPolicy Unrestricted -Scope Process
 .\venv\Scripts\activate
+
+scrapy crawl cve
+
+# linux
+python3 - venv env
+source env/bin/active
+which pip
+deactivate
