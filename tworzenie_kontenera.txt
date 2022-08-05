@@ -1,0 +1,6 @@
+docker build -t mlops-cookbook
+
+docker image ls
+docker push dfsgsdfg
+
+docker run -p 127.0.0.1:8080:808 860d3c490db0
